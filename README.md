@@ -8,7 +8,7 @@
 
 ## 📫 Contact & Links
 - ✉️ **Email:** milpasoomin@gmail.com 
-- 🌐 **Blog:** [네이버 블로그](https://blog.naver.com/milpa/)  
+- 🌐 **Blog:** [네이버 블로그]https://blog.naver.com/milpa/ 
 - 📄 **Resume:** [이력서 보기](./resume/soomin_lee_resume.pdf)  
 - 🧠 **Learning Archive:** [Paper Notes](./paper-notes) · [Study Logs](./study-logs)
 
