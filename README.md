@@ -56,7 +56,7 @@
 - 대규모 로그 데이터 기반 CTR Feature Engineering  
 - Sequence, Cross Feature, Diversity Ratio 등 고급 피처 설계  
 - K-Fold Ensemble 및 Meta Blending으로 최종 모델 완성  
-- 🏆 **Leaderboard:** 2571명 중 319등 → 상위 약 **12%**
+- 🏆 **Leaderboard:** 2571명 중 313등 → 상위 약 **12%**
 
 ---
 
