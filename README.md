@@ -47,7 +47,7 @@
 
 ---
 
-### 💰 [Toss CTR Prediction](https://github.com/Leesoomin97/toss-ctr-competition)
+### 💰 [Toss CTR Prediction](https://github.com/Leesoomin97/toss_ctr_dacon_project)
 **Type:** Competition Project (DACON, Completed)  
 **Goal:** 광고 클릭 확률 예측 모델 개발  
 **Stack:** LightGBM, XGBoost, Deep & Cross Network (DCN), PyTorch  
