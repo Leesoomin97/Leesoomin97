@@ -88,7 +88,7 @@
 
   <a href="https://github.com/Leesoomin97/paper-notes" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Paper_Notes-4A154B?style=for-the-badge&logo=notion&logoColor=white"
+      src="https://img.shields.io/badge/Paper_Notes-4A154B?style=for-the-badge&logo=readthedocs&logoColor=white"
       alt="Paper Notes"
     />
   </a>
