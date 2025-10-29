@@ -1,16 +1,73 @@
-# 👋 Hi, I'm **Soomin Lee (이수민)**
-**Data Scientist / MLOps Learner**
+<h1 align="center">👋 Hi, I'm <b>Soomin Lee (이수민)</b></h1>
+<h3 align="center">Data Scientist · MLOps Learner</h3>
 
-> 데이터를 이해하고, 시스템을 설계하며, 서비스를 완성하는 과정을 즐깁니다.  
-> *I build things to understand how they work — then make them work better.*
+<p align="center">
+  데이터를 이해하고, 시스템을 설계하며, 서비스를 완성하는 과정을 즐깁니다.<br>
+  <i>I build things to understand how they work — then make them work better.</i>
+</p>
+
+---
+
+## 📊 Activity Stats
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Leesoomin97&theme=dark&hide_border=true"/>
+</p>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
 ## 📫 Contact & Links
-- ✉️ **Email:** milpasoomin@gmail.com 
-- 🌐 **Blog:** [네이버 블로그]https://blog.naver.com/milpa/ 
-- 📄 **Resume:** [이력서 보기](./resume/soomin_lee_resume.pdf)  
-- 🧠 **Learning Archive:** [Paper Notes](./paper-notes) · [Study Logs](./study-logs)
+<p align="center">
+  <a href="mailto:milpasoomin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-milpasoomin@gmail.com?style=flat&logo=gmail"/>
+  </a>
+  <a href="https://blog.naver.com/milpa">
+    <img src="https://img.shields.io/badge/Blog-Naver?style=flat&logo=naver"/>
+  </a>
+  <a href="./resume/soomin_lee_resume_public.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF?style=flat&logo=readme"/>
+  </a>
+  <br>
+  <a href="https://github.com/Leesoomin97">
+    <img src="https://img.shields.io/badge/GitHub-Leesoomin97?style=flat&logo=github"/>
+  </a>
+  <a href="./paper-notes">
+    <img src="https://img.shields.io/badge/Paper_Notes?style=flat&logo=notion"/>
+  </a>
+  <a href="./study-logs">
+    <img src="https://img.shields.io/badge/Study_Logs?style=flat&logo=jupyter"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Python?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/PyTorch?style=flat&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn?style=flat&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/LightGBM?style=flat"/>
+  <img src="https://img.shields.io/badge/XGBoost?style=flat"/>
+</p>
+
+---
+
+## ⚙️ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker?style=flat&logo=docker"/>
+  <img src="https://img.shields.io/badge/Airflow?style=flat&logo=apacheairflow"/>
+  <img src="https://img.shields.io/badge/FastAPI?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/AWS_EC2?style=flat&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/MySQL?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/S3?style=flat&logo=amazons3"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions?style=flat&logo=githubactions"/>
+  <img src="https://img.shields.io/badge/Slack?style=flat&logo=slack"/>
+  <img src="https://img.shields.io/badge/Notion?style=flat&logo=notion"/>
+  <img src="https://img.shields.io/badge/VSCode?style=flat&logo=visualstudiocode"/>
+</p>
 
 ---
 
@@ -61,17 +118,18 @@
 ---
 
 ## 📂 Repository Structure
+
 ```plaintext
-leesoomin97/
-├── projects/                                   # 프로젝트 모음
-│   ├── upstage-ml-regression-ml_3-soomin/      ← [Seoul Apartment Price Prediction](https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin)
-│   ├── mlops-game_recommendation_project_team3/← [Game Recommendation MLOps - Team Project](https://github.com/Leesoomin97/mlops-game_recommendation_project_team3)
-│   │   └── Previous_version_mlops_game_recommendation_soomin/ ← [Personal Prototype](https://github.com/Leesoomin97/Previous_version_mlops_game_recommendation_soomin)
-│   └── toss-ctr-competition/                   ← [Toss CTR Prediction](https://github.com/Leesoomin97/toss-ctr-competition)
-├── study-logs/                                 # 학습 회고 및 기술 노트
-├── paper-notes/                                # 논문 요약 및 리서치 정리
-├── resume/                                     # 이력서 및 포트폴리오
-└── README.md                                   # 메인 프로필 (현재 이 파일)
+Leesoomin97/
+├── README.md                               → Main GitHub Profile
+├── resume/                                 → Public Resume (PDF)
+└── Repositories/
+    ├── toss_ctr_dacon_project/                 → [Toss CTR Prediction (Dacon)](https://github.com/Leesoomin97/toss_ctr_dacon_project)
+    ├── mlops-game_recommendation_project_team3/→ [Game Recommendation MLOps Project](https://github.com/Leesoomin97/mlops-game_recommendation_project_team3)
+    ├── upstage-ml-regression-ml_3-soomin/      → [Seoul Apartment Price Prediction](https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin)
+    ├── study-logs/                             → [Study Logs (개인 학습 기록)](https://github.com/Leesoomin97/study-logs)
+    └── paper-notes/                            → [Paper Notes (논문 및 리서치 정리)](https://github.com/Leesoomin97/paper-notes)
+
 ```
 
 ---
