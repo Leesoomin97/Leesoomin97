@@ -1,25 +1,37 @@
-<h1 align="center">👋 Hi, I'm <b>Soomin Lee (이수민)</b></h1>
-<h3 align="center">Data Scientist</h3>
+# 👋 Hi, I'm Soomin Lee (이수민)
+### Data Scientist
 
-<p align="center">
-  데이터를 이해하고, 시스템을 설계하며, 서비스를 완성하는 과정을 즐깁니다.<br>
-  <i>I build things to understand how they work — then make them work better.</i>
-</p>
+데이터를 이해하고, 시스템을 설계하며, 서비스를 완성하는 과정을 즐깁니다.  
+*I build things to understand how they work — then make them work better.*
 
-<!-- GitHub Stats Section -->
-<table align="center" width="100%">
+---
+
+<!-- GitHub Stats (2열, 투명 테마, 깨짐 방지) -->
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+    <td align="center" valign="top" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&card_width=420&v=2"
+        height="160"
+        alt="GitHub Stats"
+      />
     </td>
-    <td align="center" width="50%">
-      <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Leesoomin97&theme=transparent&hide_border=true" />
+    <td align="center" valign="top" width="50%">
+      <img
+        src="https://streak-stats.demolab.com?user=Leesoomin97&theme=transparent&hide_border=true&card_width=420&v=2"
+        height="160"
+        alt="GitHub Streak"
+      />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&theme=transparent&hide_border=true&langs_count=6&card_width=420&v=2"
+    height="150"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -57,27 +69,25 @@
 ---
 
 ---
-
 ## 📫 Contact & Links
 <p>
   <a href="mailto:milpasoomin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-milpasoomin@gmail.com-1C1C1C?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://blog.naver.com/milpa">
-    <img src="https://img.shields.io/badge/Blog-Naver-1C1C1C?style=flat&logo=naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
   <a href="./resume/soomin_lee_resume_public.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-1C1C1C?style=flat&logo=readme&logoColor=white"/>
-  </a>
-  <br>
+    <img src="https://img.shields.io/badge/Resume-6A5ACD?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a><br>
   <a href="https://github.com/Leesoomin97">
-    <img src="https://img.shields.io/badge/GitHub-Leesoomin97-1C1C1C?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/Leesoomin97/paper-notes">
-    <img src="https://img.shields.io/badge/Paper_Notes-1C1C1C?style=flat&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Paper_Notes-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   <a href="https://github.com/Leesoomin97/study-logs">
-    <img src="https://img.shields.io/badge/Study_Logs-1C1C1C?style=flat&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Study_Logs-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   </a>
 </p>
 
@@ -85,28 +95,29 @@
 
 ## 🧠 Skills
 <p>
-  <img src="https://img.shields.io/badge/Python-1C1C1C?style=flat&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/PyTorch-1C1C1C?style=flat&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/scikit--learn-1C1C1C?style=flat&logo=scikitlearn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/LightGBM-1C1C1C?style=flat"/>
-  <img src="https://img.shields.io/badge/XGBoost-1C1C1C?style=flat"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-4CBB17?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XGBoost-EB5E0B?style=for-the-badge"/>
 </p>
 
 ---
 
 ## ⚙️ Tools
 <p>
-  <img src="https://img.shields.io/badge/Docker-1C1C1C?style=flat&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/Airflow-1C1C1C?style=flat&logo=apacheairflow&logoColor=017CEE"/>
-  <img src="https://img.shields.io/badge/FastAPI-1C1C1C?style=flat&logo=fastapi&logoColor=009688"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-1C1C1C?style=flat&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/MySQL-1C1C1C?style=flat&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/S3-1C1C1C?style=flat&logo=amazons3&logoColor=569A31"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-1C1C1C?style=flat&logo=githubactions&logoColor=2088FF"/>
-  <img src="https://img.shields.io/badge/Slack-1C1C1C?style=flat&logo=slack&logoColor=4A154B"/>
-  <img src="https://img.shields.io/badge/Notion-1C1C1C?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-1C1C1C?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
+
 
 ---
 
