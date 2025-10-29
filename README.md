@@ -6,21 +6,25 @@
 
 ---
 
-<!-- GitHub Stats (2열, 투명 테마, 깨짐 방지) -->
-<table width="100%">
+<!-- GitHub Stats (full-width, 2 columns, fixed layout) -->
+<table align="center" width="100%" style="table-layout:fixed;">
+  <colgroup>
+    <col span="1" style="width:50%;">
+    <col span="1" style="width:50%;">
+  </colgroup>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&card_width=420&v=2"
-        height="160"
+        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&v=3"
         alt="GitHub Stats"
+        width="100%"
       />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top">
       <img
-        src="https://streak-stats.demolab.com?user=Leesoomin97&theme=transparent&hide_border=true&card_width=420&v=2"
-        height="160"
+        src="https://streak-stats.demolab.com?user=Leesoomin97&theme=transparent&hide_border=true&v=3"
         alt="GitHub Streak"
+        width="100%"
       />
     </td>
   </tr>
@@ -28,11 +32,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&theme=transparent&hide_border=true&langs_count=6&card_width=420&v=2"
-    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&theme=transparent&hide_border=true&langs_count=6&v=3"
     alt="Top Languages"
+    width="70%"
   />
 </p>
+
 
 ---
 
