@@ -7,18 +7,59 @@
 </p>
 
 <!-- GitHub Stats Section -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+    </td>
+    <td align="center" width="50%">
+      <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Leesoomin97&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Leesoomin97&theme=transparent&hide_border=true"/>
-</p>
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
+<!-- Featured Repositories: README 내부에 'pin' 카드(2열) -->
+<h2 align="center">📌 Featured Repositories</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Leesoomin97/mlops-game_recommendation_project_team3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=mlops-game_recommendation_project_team3&theme=transparent&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Leesoomin97/toss_ctr_dacon_project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=toss_ctr_dacon_project&theme=transparent&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=upstage-ml-regression-ml_3-soomin&theme=transparent&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Leesoomin97/study-logs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=study-logs&theme=transparent&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+---
+
 ## 📫 Contact & Links
-<p align="center">
+<p>
   <a href="mailto:milpasoomin@gmail.com">
     <img src="https://img.shields.io/badge/Email-milpasoomin@gmail.com-1C1C1C?style=flat&logo=gmail&logoColor=white"/>
   </a>
@@ -43,7 +84,7 @@
 ---
 
 ## 🧠 Skills
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-1C1C1C?style=flat&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/PyTorch-1C1C1C?style=flat&logo=pytorch&logoColor=EE4C2C"/>
   <img src="https://img.shields.io/badge/scikit--learn-1C1C1C?style=flat&logo=scikitlearn&logoColor=F7931E"/>
@@ -54,7 +95,7 @@
 ---
 
 ## ⚙️ Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Docker-1C1C1C?style=flat&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Airflow-1C1C1C?style=flat&logo=apacheairflow&logoColor=017CEE"/>
   <img src="https://img.shields.io/badge/FastAPI-1C1C1C?style=flat&logo=fastapi&logoColor=009688"/>
