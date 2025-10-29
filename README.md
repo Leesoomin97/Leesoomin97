@@ -65,34 +65,22 @@
 
 ---
 ## 📫 Contact & Links
-<p>
-  <!-- Gmail 작성창 바로 열기 -->
+<p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=milpasoomin@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Soomin Lee"
-    />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <a href="https://blog.naver.com/milpa" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"/>
+    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Blog"/>
   </a>
-
   <a href="./resume/soomin_lee_resume_public.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-6A5ACD?style=for-the-badge&logo=readme&logoColor=white" alt="Resume PDF"/>
-  </a><br>
-
+    <img src="https://img.shields.io/badge/Resume-6A5ACD?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+  </a>
   <a href="https://github.com/Leesoomin97" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
   <a href="https://github.com/Leesoomin97/paper-notes" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Paper_Notes-4A154B?style=for-the-badge&logo=readthedocs&logoColor=white"
-      alt="Paper Notes"
-    />
+    <img src="https://img.shields.io/badge/Paper_Notes-4A154B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Paper Notes"/>
   </a>
-
   <a href="https://github.com/Leesoomin97/study-logs" target="_blank">
     <img src="https://img.shields.io/badge/Study_Logs-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Study Logs"/>
   </a>
