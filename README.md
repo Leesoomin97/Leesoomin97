@@ -6,37 +6,28 @@
 
 ---
 
-<!-- GitHub Stats (full-width, 2 columns, fixed layout) -->
+<!-- Stats x Two (full-width, side-by-side, same theme) -->
 <table align="center" width="100%" style="table-layout:fixed;">
-  <colgroup>
-    <col span="1" style="width:50%;">
-    <col span="1" style="width:50%;">
-  </colgroup>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&v=3"
+        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&rank_icon=github&v=4"
         alt="GitHub Stats"
         width="100%"
       />
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
+      <!-- (B) Top Languages : 위 Streak 이미지 대신 이 줄을 쓰고 위 줄은 지워도 됨
       <img
-        src="https://streak-stats.demolab.com?user=Leesoomin97&theme=transparent&hide_border=true&v=3"
-        alt="GitHub Streak"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&v=4"
+        alt="Top Languages"
         width="100%"
       />
+      -->
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&theme=transparent&hide_border=true&langs_count=6&v=3"
-    alt="Top Languages"
-    width="70%"
-  />
-</p>
 
 
 ---
