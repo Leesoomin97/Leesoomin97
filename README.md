@@ -6,28 +6,26 @@
 
 ---
 
-<!-- Stats x Two (full-width, side-by-side, same theme) -->
+<!-- Stats x Two (full-width, transparent, side-by-side) -->
 <table align="center" width="100%" style="table-layout:fixed;">
   <tr>
     <td align="center" valign="top" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&rank_icon=github&v=4"
+        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github&v=5"
         alt="GitHub Stats"
-        width="100%"
+        style="display:block;width:100%;height:auto;"
       />
     </td>
     <td align="center" valign="top" width="50%">
-      <!-- (B) Top Languages : 위 Streak 이미지 대신 이 줄을 쓰고 위 줄은 지워도 됨
+      <!-- 오른쪽은 '언어 비율' 카드로 고정 -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&v=4"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=5"
         alt="Top Languages"
-        width="100%"
+        style="display:block;width:100%;height:auto;"
       />
-      -->
     </td>
   </tr>
 </table>
-
 
 
 ---
@@ -67,8 +65,11 @@
 ---
 ## 📫 Contact & Links
 <p>
-  <a href="mailto:milpasoomin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:milpasoomin@gmail.com" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Email-milpasoomin@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"
+      alt="Email Soomin Lee"
+    />
   </a>
   <a href="https://blog.naver.com/milpa">
     <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
