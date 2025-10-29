@@ -1,20 +1,18 @@
 <h1 align="center">👋 Hi, I'm <b>Soomin Lee (이수민)</b></h1>
-<h3 align="center">Data Scientist · MLOps Learner</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="center">
   데이터를 이해하고, 시스템을 설계하며, 서비스를 완성하는 과정을 즐깁니다.<br>
   <i>I build things to understand how they work — then make them work better.</i>
 </p>
 
----
-
-## 📊 Activity Stats
+<!-- GitHub Stats Section -->
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Leesoomin97&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Leesoomin97&theme=transparent&hide_border=true"/>
 </p>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&theme=dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -22,23 +20,23 @@
 ## 📫 Contact & Links
 <p align="center">
   <a href="mailto:milpasoomin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-milpasoomin@gmail.com?style=flat&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-milpasoomin@gmail.com-1C1C1C?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://blog.naver.com/milpa">
-    <img src="https://img.shields.io/badge/Blog-Naver?style=flat&logo=naver"/>
+    <img src="https://img.shields.io/badge/Blog-Naver-1C1C1C?style=flat&logo=naver&logoColor=white"/>
   </a>
   <a href="./resume/soomin_lee_resume_public.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF?style=flat&logo=readme"/>
+    <img src="https://img.shields.io/badge/Resume-PDF-1C1C1C?style=flat&logo=readme&logoColor=white"/>
   </a>
   <br>
   <a href="https://github.com/Leesoomin97">
-    <img src="https://img.shields.io/badge/GitHub-Leesoomin97?style=flat&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Leesoomin97-1C1C1C?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="./paper-notes">
-    <img src="https://img.shields.io/badge/Paper_Notes?style=flat&logo=notion"/>
+  <a href="https://github.com/Leesoomin97/paper-notes">
+    <img src="https://img.shields.io/badge/Paper_Notes-1C1C1C?style=flat&logo=notion&logoColor=white"/>
   </a>
-  <a href="./study-logs">
-    <img src="https://img.shields.io/badge/Study_Logs?style=flat&logo=jupyter"/>
+  <a href="https://github.com/Leesoomin97/study-logs">
+    <img src="https://img.shields.io/badge/Study_Logs-1C1C1C?style=flat&logo=jupyter&logoColor=white"/>
   </a>
 </p>
 
@@ -46,27 +44,27 @@
 
 ## 🧠 Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Python?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/PyTorch?style=flat&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn?style=flat&logo=scikitlearn"/>
-  <img src="https://img.shields.io/badge/LightGBM?style=flat"/>
-  <img src="https://img.shields.io/badge/XGBoost?style=flat"/>
+  <img src="https://img.shields.io/badge/Python-1C1C1C?style=flat&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/PyTorch-1C1C1C?style=flat&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/scikit--learn-1C1C1C?style=flat&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/LightGBM-1C1C1C?style=flat"/>
+  <img src="https://img.shields.io/badge/XGBoost-1C1C1C?style=flat"/>
 </p>
 
 ---
 
 ## ⚙️ Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker?style=flat&logo=docker"/>
-  <img src="https://img.shields.io/badge/Airflow?style=flat&logo=apacheairflow"/>
-  <img src="https://img.shields.io/badge/FastAPI?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/AWS_EC2?style=flat&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/MySQL?style=flat&logo=mysql"/>
-  <img src="https://img.shields.io/badge/S3?style=flat&logo=amazons3"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions?style=flat&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/Slack?style=flat&logo=slack"/>
-  <img src="https://img.shields.io/badge/Notion?style=flat&logo=notion"/>
-  <img src="https://img.shields.io/badge/VSCode?style=flat&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Docker-1C1C1C?style=flat&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Airflow-1C1C1C?style=flat&logo=apacheairflow&logoColor=017CEE"/>
+  <img src="https://img.shields.io/badge/FastAPI-1C1C1C?style=flat&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-1C1C1C?style=flat&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/MySQL-1C1C1C?style=flat&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/S3-1C1C1C?style=flat&logo=amazons3&logoColor=569A31"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-1C1C1C?style=flat&logo=githubactions&logoColor=2088FF"/>
+  <img src="https://img.shields.io/badge/Slack-1C1C1C?style=flat&logo=slack&logoColor=4A154B"/>
+  <img src="https://img.shields.io/badge/Notion-1C1C1C?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-1C1C1C?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
 
 ---
@@ -117,20 +115,14 @@
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Overview
 
-```plaintext
-Leesoomin97/
-├── README.md                               → Main GitHub Profile
-├── resume/                                 → Public Resume (PDF)
-└── Repositories/
-    ├── toss_ctr_dacon_project/                 → [Toss CTR Prediction (Dacon)](https://github.com/Leesoomin97/toss_ctr_dacon_project)
-    ├── mlops-game_recommendation_project_team3/→ [Game Recommendation MLOps Project](https://github.com/Leesoomin97/mlops-game_recommendation_project_team3)
-    ├── upstage-ml-regression-ml_3-soomin/      → [Seoul Apartment Price Prediction](https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin)
-    ├── study-logs/                             → [Study Logs (개인 학습 기록)](https://github.com/Leesoomin97/study-logs)
-    └── paper-notes/                            → [Paper Notes (논문 및 리서치 정리)](https://github.com/Leesoomin97/paper-notes)
-
-```
+이 프로필은 주요 프로젝트 레포지토리로 연결됩니다:
+- [Toss CTR Prediction (Dacon)](https://github.com/Leesoomin97/toss_ctr_dacon_project)
+- [Game Recommendation MLOps Project](https://github.com/Leesoomin97/mlops-game_recommendation_project_team3)
+- [Seoul Apartment Price Prediction](https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin)
+- [Study Logs (개인 학습 기록)](https://github.com/Leesoomin97/study-logs)
+- [Paper Notes (논문 및 리서치 정리)](https://github.com/Leesoomin97/paper-notes)
 
 ---
 
