@@ -12,7 +12,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github&v=5"
+        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=percentile"
         alt="GitHub Stats"
         style="display:block;width:100%;height:auto;"
       />
@@ -87,7 +87,10 @@
   </a>
 
   <a href="https://github.com/Leesoomin97/paper-notes" target="_blank">
-    <img src="https://img.shields.io/badge/Paper_Notes-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Paper Notes"/>
+    <img 
+      src="https://img.shields.io/badge/Paper_Notes-4A154B?style=for-the-badge&logo=notion&logoColor=white"
+      alt="Paper Notes"
+    />
   </a>
 
   <a href="https://github.com/Leesoomin97/study-logs" target="_blank">
