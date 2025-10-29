@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Soomin Lee (이수민)
-### Data Scientist
+# 👋 Hi, I'm **Soomin Lee (이수민)**
+### Data Scientist · [milpasoomin@gmail.com](mailto:milpasoomin@gmail.com)
 
 데이터를 이해하고, 시스템을 설계하며, 서비스를 완성하는 과정을 즐깁니다.  
 *I build things to understand how they work — then make them work better.*
-email: milpasoomin@gmail.com
+
 ---
+
 
 <!-- Stats x Two (full-width, transparent, side-by-side) -->
 <table align="center" width="100%" style="table-layout:fixed;">
@@ -64,26 +65,33 @@ email: milpasoomin@gmail.com
 
 ---
 ## 📫 Contact & Links
-  <a href="mailto:milpasoomin@gmail.com" target="_blank">
+<p>
+  <!-- Gmail 작성창 바로 열기 -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=milpasoomin@gmail.com" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email Soomin Lee"
     />
   </a>
-  <a href="https://blog.naver.com/milpa">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+
+  <a href="https://blog.naver.com/milpa" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"/>
   </a>
-  <a href="./resume/soomin_lee_resume_public.pdf">
-    <img src="https://img.shields.io/badge/Resume-6A5ACD?style=for-the-badge&logo=readme&logoColor=white"/>
+
+  <a href="./resume/soomin_lee_resume_public.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-6A5ACD?style=for-the-badge&logo=readme&logoColor=white" alt="Resume PDF"/>
   </a><br>
-  <a href="https://github.com/Leesoomin97">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <a href="https://github.com/Leesoomin97" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <a href="https://github.com/Leesoomin97/paper-notes">
-    <img src="https://img.shields.io/badge/Paper_Notes-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+  <a href="https://github.com/Leesoomin97/paper-notes" target="_blank">
+    <img src="https://img.shields.io/badge/Paper_Notes-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Paper Notes"/>
   </a>
-  <a href="https://github.com/Leesoomin97/study-logs">
-    <img src="https://img.shields.io/badge/Study_Logs-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+  <a href="https://github.com/Leesoomin97/study-logs" target="_blank">
+    <img src="https://img.shields.io/badge/Study_Logs-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Study Logs"/>
   </a>
 </p>
 
