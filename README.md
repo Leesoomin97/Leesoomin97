@@ -3,7 +3,7 @@
 
 데이터를 이해하고, 시스템을 설계하며, 서비스를 완성하는 과정을 즐깁니다.  
 *I build things to understand how they work — then make them work better.*
-
+email: milpasoomin@gmail.com
 ---
 
 <!-- Stats x Two (full-width, transparent, side-by-side) -->
@@ -64,10 +64,9 @@
 
 ---
 ## 📫 Contact & Links
-<p>
   <a href="mailto:milpasoomin@gmail.com" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Email-milpasoomin@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"
       alt="Email Soomin Lee"
     />
   </a>
