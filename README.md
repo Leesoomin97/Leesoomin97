@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Soomin Lee (이수민)**
-### Data Scientist · [milpasoomin@gmail.com](mailto:milpasoomin@gmail.com)
+### Data Scientist/ Data Engineer · [milpasoomin@gmail.com](mailto:milpasoomin@gmail.com)
 
 데이터를 이해하고, 시스템을 설계하며, 서비스를 완성하는 과정을 즐깁니다.  
 *I build things to understand how they work — then make them work better.*
@@ -12,7 +12,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=percentile"
+        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
         style="display:block;width:100%;height:auto;"
       />
