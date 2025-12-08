@@ -81,7 +81,7 @@
 
 ## 🧩 Projects
 
-### 🏙️ [Seoul Apartment Price Prediction](https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin)
+### 🏙️ [Seoul Apartment Price Prediction Project](https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin)
 **Type:** Practice Project (Bootcamp Internal)  
 **Goal:** 서울시 실거래가 데이터를 활용한 아파트 가격 예측  
 **Stack:** Python, Pandas, LightGBM, XGBoost, CatBoost  
@@ -112,7 +112,7 @@
 
 ---
 
-### 💰 [Toss CTR Prediction](https://github.com/Leesoomin97/toss_ctr_dacon_project)
+### 💰 [DACON Toss CTR Prediction](https://github.com/Leesoomin97/toss_ctr_dacon_project)
 **Type:** Competition Project (DACON, Completed)  
 **Goal:** 광고 클릭 확률 예측 모델 개발  
 **Stack:** LightGBM, XGBoost, Deep & Cross Network (DCN), PyTorch  
@@ -126,7 +126,7 @@
 
 ---
 
-### 🧪 [Upstage CV Classification](https://github.com/AIBootCamp16/upstage-cv-classification-cv-4)
+### 🧪 [Upstage CV Document Types Classification](https://github.com/AIBootCamp16/upstage-cv-classification-cv-4)
 **Type:** Computer Vision Competition (Team)  
 **Goal:** 업스테이지 제공 문서 이미지 분류 모델 성능 최적화  
 **Stack:** PyTorch, EfficientNet, ConvNeXt, ViT, Albumentations, Wandb  
@@ -141,8 +141,8 @@
 
 ---
 
-### 📈 [Trade Forecasting Competition](https://github.com/Girls-Night/dacon-trade-forecast-team_girls_night)
-**Type:** Competition Project (Team)  
+### 📈 [DACON 국민대학교 Trade Prediction Competition](https://github.com/Girls-Night/dacon-trade-forecast-team_girls_night)
+**Type:** Algorithm, Regression, Classification - Competition Project (Team)  
 **Goal:** HS4 품목 간 연동성 분석 및 미래 수출입 예측  
 **Stack:** Python, Pandas, LightGBM, XGBoost, Statistical Modeling  
 
