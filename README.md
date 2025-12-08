@@ -93,7 +93,7 @@
 
 ---
 
-### 🎮 [Game Recommendation MLOps Project](https://github.com/Leesoomin97/mlops-game_recommendation_project_team3)
+### 🎮 [Game Recommendation MLOps Project](https://github.com/AIBootcamp16/mlops-cloud-project-mlops-3)
 **Type:** MLOps Project (Team + Personal)  
 **Goal:** RAWG API 기반 게임 추천 시스템 구축 및 배포 자동화  
 **Stack:** Airflow, Docker, S3, EC2, FastAPI, MySQL, GitHub Actions, Slack Webhook  
@@ -123,6 +123,37 @@
 - K-Fold Ensemble 및 Meta Blending으로 최종 모델 완성  
 - 🏆 **Leaderboard:** 2571명 중 313등 → 상위 약 **12%**
 
+
+---
+
+### 🧪 [Upstage CV Classification](https://github.com/AIBootCamp16/upstage-cv-classification-cv-4)
+**Type:** Computer Vision Competition (Team)  
+**Goal:** 업스테이지 제공 문서 이미지 분류 모델 성능 최적화  
+**Stack:** PyTorch, EfficientNet, ConvNeXt, ViT, Albumentations, Wandb  
+
+#### Highlights
+- 문서 형태 기반 **Group-aware Augmentation Pipeline** 설계  
+- EfficientNet-B4/B5, ViT, ConvNeXt 등 **다중 백본 비교·앙상블**  
+- 이미지 전처리: CLAHE, Deskew, Gamma Correction, Unsharp Mask 등
+- **2-Stage 학습 전략**으로 더 안정적이고 세밀한 모델링 수행
+- **External Augmentation** 및 **Class-wise Oversampling**을 적용하여 희소 클래스 분포를 개선하고 견고한 학습 구조 확보
+- 하이퍼파라미터 최적화 + 모델 스태킹으로 **최종 성능 상위권 2등 달성**
+
+---
+
+### 📈 [Trade Forecasting Competition](https://github.com/Girls-Night/dacon-trade-forecast-team_girls_night)
+**Type:** Competition Project (Team)  
+**Goal:** HS4 품목 간 연동성 분석 및 미래 수출입 예측  
+**Stack:** Python, Pandas, LightGBM, XGBoost, Statistical Modeling  
+
+#### Highlights
+- HS 코드 기반 **연동성(Comovement) 분석 프레임워크** 구축  
+- Pairwise Correlation Matrix + Z-score 기반 **후보 자동 탐색 알고리즘** 개발  
+- Lag Feature, HS Distance Feature 등 **도메인 기반 Feature Engineering**
+- 시계열 구조에 적합한 Rolling Window Cross-Validation을 적용해 **안정적인 성능 평가 체계** 구축
+- LightGBM 모델로 **미래 수출입량 예측 성능 향상**  
+- 데이터 편향·결측 문제를 해결한 **정교한 FE 중심 접근 전략** 적용
+- 🏆 **Leaderboard:** 1677명 중 259등 → 상위 약 **15%**
 ---
 
 ## 📂 Repository Overview
