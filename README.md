@@ -10,14 +10,14 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github&token=${{ secrets.STATS_TOKENS }}"
+        src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
         style="display:block;width:100%;height:auto;"
       />
     </td>
     <td align="center" valign="top" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=5&token=${{ secrets.STATS_TOKENS }}"
+        src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=5"
         alt="Top Languages"
         style="display:block;width:100%;height:auto;"
       />
