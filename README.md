@@ -35,28 +35,29 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Leesoomin97/mlops-game_recommendation_project_team3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=mlops-game_recommendation_project_team3&theme=transparent&hide_border=true" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Leesoomin97&repo=mlops-game_recommendation_project_team3&theme=transparent&hide_border=true" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Leesoomin97/toss_ctr_dacon_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=toss_ctr_dacon_project&theme=transparent&hide_border=true" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Leesoomin97&repo=toss_ctr_dacon_project&theme=transparent&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=upstage-ml-regression-ml_3-soomin&theme=transparent&hide_border=true" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Leesoomin97&repo=upstage-ml-regression-ml_3-soomin&theme=transparent&hide_border=true" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Leesoomin97/study-logs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=study-logs&theme=transparent&hide_border=true" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Leesoomin97&repo=study-logs&theme=transparent&hide_border=true" />
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
