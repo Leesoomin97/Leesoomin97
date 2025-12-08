@@ -26,55 +26,6 @@
   </tr>
 </table>
 
-
----
-
-<h2 align="center">📌 Featured Repositories</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <!-- 1. 무역 예측 -->
-    <td align="center" width="50%">
-      <a href="https://github.com/Girls-Night/dacon-trade-forecast-team_girls_night">
-        <img
-          src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Girls-Night&repo=dacon-trade-forecast-team_girls_night&theme=transparent&hide_border=true"
-        />
-      </a>
-    </td>
-
-    <!-- 2. MLOps 팀 버전 -->
-    <td align="center" width="50%">
-      <a href="https://github.com/AIBootCamp16/mlops-cloud-project-mlops-3">
-        <img
-          src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=AIBootCamp16&repo=mlops-cloud-project-mlops-3&theme=transparent&hide_border=true"
-        />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <!-- 3. 토스 데이콘 -->
-    <td align="center" width="50%">
-      <a href="https://github.com/Leesoomin97/toss_ctr_dacon_project">
-        <img
-          src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Leesoomin97&repo=toss_ctr_dacon_project&theme=transparent&hide_border=true"
-        />
-      </a>
-    </td>
-
-    <!-- 4. CV 경진대회 -->
-    <td align="center" width="50%">
-      <a href="https://github.com/AIBootCamp16/upstage-cv-classification-cv-4">
-        <img
-          src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=AIBootCamp16&repo=upstage-cv-classification-cv-4&theme=transparent&hide_border=true"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ---
 ## 📫 Contact & Links
 <p align="left">
