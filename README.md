@@ -44,16 +44,16 @@
 
     <!-- 2. MLOps 팀 버전 -->
     <td align="center" width="50%">
-      <a href="https://github.com/AIBootcamp16/mlops-cloud-project-mlops-3">
+      <a href="https://github.com/AIBootCamp16/mlops-cloud-project-mlops-3">
         <img
-          src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=AIBootcamp16&repo=mlops-cloud-project-mlops-3&theme=transparent&hide_border=true"
+          src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=AIBootCamp16&repo=mlops-cloud-project-mlops-3&theme=transparent&hide_border=true"
         />
       </a>
     </td>
   </tr>
 
   <tr>
-    <!-- 3. 토스 데이콘 (유지) -->
+    <!-- 3. 토스 데이콘 -->
     <td align="center" width="50%">
       <a href="https://github.com/Leesoomin97/toss_ctr_dacon_project">
         <img
@@ -64,15 +64,14 @@
 
     <!-- 4. CV 경진대회 -->
     <td align="center" width="50%">
-      <a href="https://github.com/AIBootcamp16/upstage-cv-classification-cv-4">
+      <a href="https://github.com/AIBootCamp16/upstage-cv-classification-cv-4">
         <img
-          src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=AIBootcamp16&repo=upstage-cv-classification-cv-4&theme=transparent&hide_border=true"
+          src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=AIBootCamp16&repo=upstage-cv-classification-cv-4&theme=transparent&hide_border=true"
         />
       </a>
     </td>
   </tr>
 </table>
-
 
 ---
 
