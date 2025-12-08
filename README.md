@@ -6,25 +6,21 @@
 
 ---
 <!-- Stats x Two (full-width, transparent, side-by-side) -->
+<!-- Stats x Two (full-width, side-by-side) -->
 <table align="center" width="100%" style="table-layout:fixed;">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" width="50%" valign="top">
       <img
-  src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github"
-  alt="GitHub Stats"
-/>
-
+        src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
-        style="display:block;width:100%;height:auto;"
+        style="width:100%; height:auto;"
       />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" width="50%" valign="top">
       <img
-  src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-  alt="Top Languages"
-/>
-
-        style="display:block;width:100%;height:auto;"
+        src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+        alt="Top Languages"
+        style="width:100%; height:auto;"
       />
     </td>
   </tr>
