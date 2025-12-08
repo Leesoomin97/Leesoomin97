@@ -5,22 +5,19 @@
 *I build things to understand how they work — then make them work better.*
 
 ---
-
-
 <!-- Stats x Two (full-width, transparent, side-by-side) -->
 <table align="center" width="100%" style="table-layout:fixed;">
   <tr>
     <td align="center" valign="top" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github"
+        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github&token=${{ secrets.STATS_TOKENS }}"
         alt="GitHub Stats"
         style="display:block;width:100%;height:auto;"
       />
     </td>
     <td align="center" valign="top" width="50%">
-      <!-- 오른쪽은 '언어 비율' 카드로 고정 -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=5"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=5&token=${{ secrets.STATS_TOKENS }}"
         alt="Top Languages"
         style="display:block;width:100%;height:auto;"
       />
@@ -31,7 +28,6 @@
 
 ---
 
-<!-- Featured Repositories: README 내부에 'pin' 카드(2열) -->
 <h2 align="center">📌 Featured Repositories</h2>
 
 <table align="center" width="100%">
