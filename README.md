@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin">
+      <a href="[https://https://github.com/Girls-Night/dacon-trade-forecast-team_girls_night">
         <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Leesoomin97&repo=upstage-ml-regression-ml_3-soomin&theme=transparent&hide_border=true" />
       </a>
     </td>
