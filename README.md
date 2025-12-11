@@ -35,7 +35,7 @@
   <a href="https://blog.naver.com/milpa" target="_blank">
     <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Blog"/>
   </a>
-  <a href="./resume/soomin_lee_resume_public.pdf" target="_blank">
+  <a href="./resume/resume_Leesoomin.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-6A5ACD?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://github.com/Leesoomin97" target="_blank">
