@@ -1,67 +1,30 @@
 # 👋 Hi, I'm **Soomin Lee (이수민)**
-### Data Scientist · [milpasoomin@gmail.com](mailto:milpasoomin@gmail.com)
+### Data Scientist/ Data Engineer · [milpasoomin@gmail.com](mailto:milpasoomin@gmail.com)
 
 데이터를 이해하고, 시스템을 설계하며, 서비스를 완성하는 과정을 즐깁니다.  
 *I build things to understand how they work — then make them work better.*
 
 ---
-
-
 <!-- Stats x Two (full-width, transparent, side-by-side) -->
+<!-- Stats x Two (full-width, side-by-side) -->
 <table align="center" width="100%" style="table-layout:fixed;">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" width="50%" valign="top">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=percentile"
+        src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
-        style="display:block;width:100%;height:auto;"
+        style="width:100%; height:auto;"
       />
     </td>
-    <td align="center" valign="top" width="50%">
-      <!-- 오른쪽은 '언어 비율' 카드로 고정 -->
+    <td align="center" width="50%" valign="top">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=5"
+        src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=transparent&hide_border=true"
         alt="Top Languages"
-        style="display:block;width:100%;height:auto;"
+        style="width:100%; height:auto;"
       />
     </td>
   </tr>
 </table>
-
-
----
-
-<!-- Featured Repositories: README 내부에 'pin' 카드(2열) -->
-<h2 align="center">📌 Featured Repositories</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Leesoomin97/mlops-game_recommendation_project_team3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=mlops-game_recommendation_project_team3&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Leesoomin97/toss_ctr_dacon_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=toss_ctr_dacon_project&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=upstage-ml-regression-ml_3-soomin&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Leesoomin97/study-logs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leesoomin97&repo=study-logs&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ---
 ## 📫 Contact & Links
@@ -118,7 +81,7 @@
 
 ## 🧩 Projects
 
-### 🏙️ [Seoul Apartment Price Prediction](https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin)
+### 🏙️ [Seoul Apartment Price Prediction Project](https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin)
 **Type:** Practice Project (Bootcamp Internal)  
 **Goal:** 서울시 실거래가 데이터를 활용한 아파트 가격 예측  
 **Stack:** Python, Pandas, LightGBM, XGBoost, CatBoost  
@@ -130,7 +93,7 @@
 
 ---
 
-### 🎮 [Game Recommendation MLOps Project](https://github.com/Leesoomin97/mlops-game_recommendation_project_team3)
+### 🎮 [Game Recommendation MLOps Project](https://github.com/AIBootcamp16/mlops-cloud-project-mlops-3)
 **Type:** MLOps Project (Team + Personal)  
 **Goal:** RAWG API 기반 게임 추천 시스템 구축 및 배포 자동화  
 **Stack:** Airflow, Docker, S3, EC2, FastAPI, MySQL, GitHub Actions, Slack Webhook  
@@ -149,7 +112,7 @@
 
 ---
 
-### 💰 [Toss CTR Prediction](https://github.com/Leesoomin97/toss_ctr_dacon_project)
+### 💰 [DACON Toss CTR Prediction](https://github.com/Leesoomin97/toss_ctr_dacon_project)
 **Type:** Competition Project (DACON, Completed)  
 **Goal:** 광고 클릭 확률 예측 모델 개발  
 **Stack:** LightGBM, XGBoost, Deep & Cross Network (DCN), PyTorch  
@@ -160,6 +123,37 @@
 - K-Fold Ensemble 및 Meta Blending으로 최종 모델 완성  
 - 🏆 **Leaderboard:** 2571명 중 313등 → 상위 약 **12%**
 
+
+---
+
+### 🧪 [Upstage CV Document Types Classification](https://github.com/AIBootCamp16/upstage-cv-classification-cv-4)
+**Type:** Computer Vision Competition (Team)  
+**Goal:** 업스테이지 제공 문서 이미지 분류 모델 성능 최적화  
+**Stack:** PyTorch, EfficientNet, ConvNeXt, ViT, Albumentations, Wandb  
+
+#### Highlights
+- 문서 형태 기반 **Group-aware Augmentation Pipeline** 설계  
+- EfficientNet-B4/B5, ViT, ConvNeXt 등 **다중 백본 비교·앙상블**  
+- 이미지 전처리: CLAHE, Deskew, Gamma Correction, Unsharp Mask 등
+- **2-Stage 학습 전략**으로 더 안정적이고 세밀한 모델링 수행
+- **External Augmentation** 및 **Class-wise Oversampling**을 적용하여 희소 클래스 분포를 개선하고 견고한 학습 구조 확보
+- 하이퍼파라미터 최적화 + 모델 스태킹으로 **최종 성능 상위권 2등 달성**
+
+---
+
+### 📈 [DACON 국민대학교 Trade Prediction Competition](https://github.com/Girls-Night/dacon-trade-forecast-team_girls_night)
+**Type:** Algorithm, Regression, Classification - Competition Project (Team)  
+**Goal:** HS4 품목 간 연동성 분석 및 미래 수출입 예측  
+**Stack:** Python, Pandas, LightGBM, XGBoost, Statistical Modeling  
+
+#### Highlights
+- HS 코드 기반 **연동성(Comovement) 분석 프레임워크** 구축  
+- Pairwise Correlation Matrix + Z-score 기반 **후보 자동 탐색 알고리즘** 개발  
+- Lag Feature, HS Distance Feature 등 **도메인 기반 Feature Engineering**
+- 시계열 구조에 적합한 Rolling Window Cross-Validation을 적용해 **안정적인 성능 평가 체계** 구축
+- LightGBM 모델로 **미래 수출입량 예측 성능 향상**  
+- 데이터 편향·결측 문제를 해결한 **정교한 FE 중심 접근 전략** 적용
+- 🏆 **Leaderboard:** 1677명 중 259등 → 상위 약 **15%**
 ---
 
 ## 📂 Repository Overview
