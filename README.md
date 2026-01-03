@@ -1,30 +1,8 @@
 # 👋 Hi, I'm **Soomin Lee (이수민)**
-### Data Scientist/ Data Engineer · [milpasoomin@gmail.com](mailto:milpasoomin@gmail.com)
+### Tech Business Development · [milpasoomin@gmail.com](mailto:milpasoomin@gmail.com)
 
-데이터를 이해하고, 시스템을 설계하며, 서비스를 완성하는 과정을 즐깁니다.  
-*I build things to understand how they work — then make them work better.*
-
----
-<!-- Stats x Two (full-width, transparent, side-by-side) -->
-<!-- Stats x Two (full-width, side-by-side) -->
-<table align="center" width="100%" style="table-layout:fixed;">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img
-        src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Leesoomin97&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github"
-        alt="GitHub Stats"
-        style="width:100%; height:auto;"
-      />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img
-        src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Leesoomin97&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-        alt="Top Languages"
-        style="width:100%; height:auto;"
-      />
-    </td>
-  </tr>
-</table>
+데이터를 이해하고, 시스템을 설계하며, 서비스를 기획하는 과정을 즐깁니다.  
+*I build things to understand how they work — then make them use better.*
 
 ---
 ## 📫 Contact & Links
