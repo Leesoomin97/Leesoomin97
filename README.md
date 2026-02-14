@@ -1,8 +1,8 @@
 # 👋 Hi, I'm **Soomin Lee (이수민)**
 ### Tech Business Development · [milpasoomin@gmail.com](mailto:milpasoomin@gmail.com)
 
-데이터를 이해하고, 시스템을 설계하며, 서비스를 기획하는 과정을 즐깁니다.  
-*I build things to understand how they work — then make them use better.*
+기술과 데이터 속에 숨겨진 비즈니스 임팩트를 발굴하고, 이를 실제 수익과 성장으로 연결하는 과정을 즐깁니다.  
+*Transforming technical insights into scalable business value.*
 
 ---
 ## 📫 Contact & Links
