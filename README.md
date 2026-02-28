@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Soomin Lee (이수민)**
+# 👋 Hi, I'm **Soomin Lee (이수민) **
 ### Tech Business Development · [milpasoomin@gmail.com](mailto:milpasoomin@gmail.com)
 
 기술과 데이터 속에 숨겨진 비즈니스 임팩트를 발굴하고, 이를 실제 수익과 성장으로 연결하는 과정을 즐깁니다.  
