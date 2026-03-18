@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Soomin Lee (이수민)
 ### Tech Business Development · [milpasoomin@gmail.com](mailto:milpasoomin@gmail.com)
 
-기술과 데이터 속에 숨겨진 비즈니스 잠재력를 찾고, 이를 실제 수익과 성장으로 연결하기 위해 도전합니다.  
-*Transforming technical insights into scalable business value.*
+기술 경쟁이 아닌 기술 적용의 경쟁 속에서, 어떤 기술이 어디에서 가장 큰 가치를 만드는지 발견하기 위해 도전합니다.  
+*As competition shifts from technology itself to its application, I seek to identify where technology creates the greatest value.*
 
 ---
 ## 📫 Contact & Links
