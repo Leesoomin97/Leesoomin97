@@ -199,10 +199,10 @@
 이 프로필은 주요 프로젝트 레포지토리로 연결됩니다:
 - [Toss CTR Prediction (Dacon)](https://github.com/Leesoomin97/toss_ctr_dacon_project)
 - [Game Recommendation MLOps Project](https://github.com/Leesoomin97/mlops-game_recommendation_project_team3)
-- [Seoul Apartment Price Prediction](https://github.com/Leesoomin97/upstage-ml-regression-ml_3-soomin)
+- [Startup Policy Chatbot AI Agent](https://github.com/AIBootcamp16/langchain-llm-langchain-3)
 - [Study Logs (개인 학습 기록)](https://github.com/Leesoomin97/study-logs)
 - [Paper Notes (논문 및 리서치 정리)](https://github.com/Leesoomin97/paper-notes)
--
+
 ---
 
 > 📌 *“단순히 모델을 만드는 것”이 아니라 “시스템 전체를 이해하며 개선하는 사람”이 되고자 합니다.*
